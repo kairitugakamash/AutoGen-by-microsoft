@@ -4,3 +4,5 @@
 3. https://microsoft.github.io/autogen/0.2/docs/Examples#code-generation-execution-and-debugging
 4. https://microsoft.github.io/autogen/0.2/docs/notebooks/
 5. https://www.youtube.com/@matthew_berman/playlists
+6. https://platform.openai.com/docs/overview -- to generate openai api key
+
